@@ -1,0 +1,1 @@
+3. Distinguish overridden and inherited methods
